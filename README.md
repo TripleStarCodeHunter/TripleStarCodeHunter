@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 ### About Me
 
 
-- 🔭 I’m currently working on a web app using Angular, PostgreSQL, Node.jsand Express.js
-- 🌱 I’m currently learning Web Automation using Selenium
+- 🔭 I’m currently working on a web app using Spring Boot and Apache Kafka
+- 🌱 I’m currently learning Blockchain
 - 👯 I’m excited to contribute to open source
 
 ### My Skillset 💻:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,angular,react,selenium,nodejs,express,postgres,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,angular,react,selenium,nodejs,express,postgres,kafka,java,spring,git,github&perline=8)](https://skillicons.dev)
